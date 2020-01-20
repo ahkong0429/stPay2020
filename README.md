@@ -58,3 +58,5 @@ NodeJs, eggjs, mysql, typeorm, redis, jwt, typescript, vue, socket.io
 系统内置了性能监控，30秒收集一次服务器信息，可自由调整或开关
 每一条请求都有日志可查，可设置保留日志天数，默认7天
 前端、后台实现了socket消息推送服务，大部分时候不需要手动去刷新页面，一改市面上传统的轮询方式，大大提高系统并发性能，实现“秒出码”
+
+商务合作 ahkong0429@gmail.com
